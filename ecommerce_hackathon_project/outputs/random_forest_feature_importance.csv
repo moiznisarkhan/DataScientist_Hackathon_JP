@@ -1,0 +1,11 @@
+feature,importance
+num__total_orders,0.4114762797261231
+num__days_since_last_order,0.26369751591832064
+num__total_spending,0.15246015992843362
+num__return_rate,0.07906242317539912
+num__average_order_value,0.054553707068851424
+num__average_delivery_days,0.02090571339544573
+num__age,0.014023132984023747
+cat__membership_type_Silver,0.0015523747652086734
+cat__membership_type_Standard,0.0013180402708869701
+cat__membership_type_Premium,0.000950652767306816

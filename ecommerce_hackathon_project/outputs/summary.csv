@@ -1,0 +1,10 @@
+,value
+valid_order_rows,64890
+orders_removed_for_quality,110
+net_revenue,865169922.03
+valid_orders,64890
+total_customers,8000
+churn_customers,6535
+churn_rate,0.49058913542463656
+final_churn_model,Random Forest
+sentiment_rows,25885

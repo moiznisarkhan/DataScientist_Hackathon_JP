@@ -1,0 +1,13 @@
+text,expected,predicted,unseen_words
+The product is of good quality,Positive,Neutral,
+"Very satisfied, excellent quality and good value for money.",Positive,Positive,
+"I love it, works perfectly",Positive,Neutral,"i, love, perfectly"
+Fast delivery and great packaging,Positive,Positive,fast
+The product is of bad quality,Negative,Neutral,
+"Terrible quality, disappointed and would not buy again.",Negative,Negative,terrible
+This is not good at all,Negative,Negative,"at, all"
+It isn't worth the money,Negative,Positive,
+Arrived damaged and support never replied,Negative,Positive,"never, replied"
+Worst purchase ever,Negative,Negative,ever
+"Nothing special, the product is okay but average.",Neutral,Neutral,
+"It is fine, does the job",Neutral,Neutral,
